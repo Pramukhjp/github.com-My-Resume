@@ -1,4 +1,4 @@
-# https-github.com-Pramukhjp
+# github.com-Pramukhjp
 My Resume
 
 About Me
